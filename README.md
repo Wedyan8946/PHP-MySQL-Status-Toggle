@@ -13,7 +13,7 @@ You can test the deployed application directly here:
 ## 📸 Application Screenshot
 Here is a preview of the dynamic user management interface in action:
 
-![Dynamic User Interface](app-screenshot.png)
+![Dynamic User Interface](screenshot.png)
 
 ---
 
